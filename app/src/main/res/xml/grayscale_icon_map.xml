@@ -529,6 +529,7 @@
     <icon drawable="@drawable/vlc" package="org.videolan.vlc" name="VLC" />
     <icon drawable="@drawable/waifupx" package="dg.waifu.walls" name="WAIFUPX" />
     <icon drawable="@drawable/wear_os" package="com.google.android.wearable.app" name="Wear OS" />
+    <icon drawable="@drawable/wear_os" package="com.samsung.android.app.watchmanager" name="Galaxy Wearable" />
     <icon drawable="@drawable/whatsapp" package="com.whatsapp" name="WhatsApp" />
     <icon drawable="@drawable/whatsapp" package="com.ymwhatsapp" name="WhatsApp" />
     <icon drawable="@drawable/whatsapp_business" package="com.whatsapp.w4b" name="WhatsApp Business" />
